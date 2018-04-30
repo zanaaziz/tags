@@ -1,9 +1,10 @@
-# tags
+# Tags
+ A dynamic tagging system in Vue.js.
 
-> A dynamic tagging app in Vue.js.
+## Preview
+![Preview image.](https://github.com/zanadaniel/tags/blob/master/src/assets/image.png "Preview image")
 
 ## Build Setup
-
 ``` bash
 # install dependencies
 npm install
